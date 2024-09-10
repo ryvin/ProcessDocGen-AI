@@ -1,4 +1,4 @@
-# Process Documentation Generator with Agents
+# Process Documentation Generator with AI Agents
 
 This project implements a multi-agent system designed to generate, test, improve, and refine **process documentation**. It allows users to create documentation based on existing files, research, and user-defined processes. The system utilizes **virtual testers** to simulate following the documentation, provide feedback, and continuously improve the documentation until it is accurate and clear.
 
