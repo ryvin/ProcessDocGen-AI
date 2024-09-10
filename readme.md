@@ -130,3 +130,6 @@ processdoc_crew/
 - **Machine Learning-Based Feedback Analysis**: Use machine learning models to analyze feedback from agents and automatically refine the documentation based on feedback patterns.
 - **Multi-Language Support**: Expand the system to generate process documentation in multiple languages.
 - **Enhanced RAG (Retrieval-Augmented Generation) Support**: Integrate an advanced knowledge base to improve RAG by referencing prior documentation and requirements more effectively.
+
+Created by Raul Pineda
+Apache License 2.0
